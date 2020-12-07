@@ -21,7 +21,7 @@
   <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
   
-  ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=keegangood&theme=dark&show_icons=true)
+  ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=keegangood&theme=dark&show_icons=true&hide_title=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keegangood&layout=compact&theme=dark)](https://github.com/keegangood/github-readme-stats)
 </div>
 
