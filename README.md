@@ -1,10 +1,14 @@
-### Hi there 👋
+
 <div align="center">
-  <div style="margin:10px;">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white"/>
-<div/>
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/>
+  <h1>Hi, I'm Keegan!</h1>
+  
+  <h3>Languages and Tools</h3>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/>
+  
+  
+  <p>I am a Full Stack Web Developer from Portland, Oregon.</p> 
 </div>
 
 <!--
