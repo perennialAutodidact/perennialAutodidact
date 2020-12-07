@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white" style="border-radius:50%;"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white" style="padding:10px;"/>
+<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/>
 
-<!--//[](https://img.shields.io/badge/python%20-%2314354C.svg?&logo=python&logoColor=white)-->
+
 <!--
 **keegangood/keegangood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working o
