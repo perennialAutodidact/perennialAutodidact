@@ -2,11 +2,11 @@
 <div align="center">
   <h1>Hi, I'm Keegan!</h1>
   
-  <h3>:deciduous_tree::evergreen_tree: - Portland, Oregon - :evergreen_tree::deciduous_tree:</h3>
-  <p>Full Stack Developer | Enthusiastic Autodidact </p>
+  <h3>:evergreen_tree: Portland, Oregon</h3>
+  <p><b>Full Stack Developer</b> | <b>Enthusiastic Autodidact</b> </p>
   <p>Perennially seeking graceful solutions to complex problems</p>
-  
-  <p>:office:Programming 101/102 Instructor at <a href="www.pdxcodeguild.com">PDX Code Guild</p>
+  <br>
+  <p>:office: Programming 101/102 Instructor at <a href="www.pdxcodeguild.com">PDX Code Guild</p>
   
   <h3>:computer: Languages and Tools</h3>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white"/>
@@ -22,6 +22,7 @@
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
   
   ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=keegangood&theme=dark&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keegangood&layout=compact&theme=dark)](https://github.com/keegangood/github-readme-stats)
 </div>
 
 <!--
