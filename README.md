@@ -5,6 +5,7 @@
   <h3>:evergreen_tree: Portland, Oregon</h3>
   <p><b>Full Stack Developer</b> | <b>Enthusiastic Autodidact</b> </p>
   <p>Perennially seeking graceful solutions to complex problems</p>
+  
   <br>
   <p>:office: Programming 101/102 Instructor at <a href="www.pdxcodeguild.com">PDX Code Guild</p>
   
