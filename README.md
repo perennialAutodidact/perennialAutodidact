@@ -2,10 +2,10 @@
 <div align="center">
   <h1>Hi, I'm Keegan!</h1>
   
-  <h3>:evergreen_tree: Portland, Oregon</h3>
-  <p><b>Full Stack Developer</b> | <b>Enthusiastic Autodidact</b> </p>
-  <p>Perennially seeking graceful solutions to complex problems</p>
   
+  <h3><b>Full Stack Developer</b> | <b>Enthusiastic Autodidact</b> </h3>
+  <h3>Perennially seeking graceful solutions to complex problems</h3>
+  <h4>:evergreen_tree: Portland, Oregon</h4>
   <br>
   <p>:office: Programming 101/102 Instructor at <a href="www.pdxcodeguild.com">PDX Code Guild</p>
   
