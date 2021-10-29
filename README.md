@@ -6,8 +6,7 @@
   <h3><b>Full Stack Developer</b> | <b>Enthusiastic Autodidact</b> </h3>
   <h3>Perennially seeking graceful solutions to complex problems</h3>
   <h4>:evergreen_tree: Portland, Oregon</h4>
-  <br>
-  <p>:office: Programming 101/102 Instructor at <a href="https://www.pdxcodeguild.com">PDX Code Guild</p>
+  <p>:office: Instructor and Career Services Advisor at <a href="https://www.pdxcodeguild.com">PDX Code Guild</p>
   
   <h3>:computer: Languages and Tools</h3>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white"/>
