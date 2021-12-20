@@ -24,8 +24,8 @@
   <br/>
   <br/>
   
-  ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=keegangood&theme=dark&show_icons=true&hide_title=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keegangood&layout=compact&theme=dark)](https://github.com/keegangood/github-readme-stats)
+  ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=perennialAutodidact&theme=dark&show_icons=true&hide_title=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perennialAutodidact&layout=compact&theme=dark)](https://github.com/perennialAutodidact/github-readme-stats)
 </div>
 
 <!--
