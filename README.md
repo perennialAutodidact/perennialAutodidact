@@ -3,7 +3,7 @@
   <h1>Hi, I'm Keegan!</h1>
   
   
-  <h3><b>Software Engineer</b> | <b>Enthusiastic Autodidact</b> </h3>
+  <h3><b>Software Engineer</b> | <b>Autodidact</b></h3>
   <h3>Perennially seeking graceful solutions to complex problems</h3>
   <h4>:evergreen_tree: Portland, Oregon</h4>
   <p>:office: Instructor and Career Services Advisor at <a href="https://www.pdxcodeguild.com">PDX Code Guild</p>
