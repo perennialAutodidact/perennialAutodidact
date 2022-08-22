@@ -9,7 +9,7 @@
   
   <h3>:computer: Languages and Tools</h3>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&logoColor=yellowgreen"/>
+ [ <img src="https://img.shields.io/badge/django%20-%23092E20.svg?logo=django&logoColor=yellowgreen"/>](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
