@@ -6,6 +6,9 @@
   <h3><b>Software Engineer</b> | <b>Autodidact</b></h3>
   <h3>Perennially seeking graceful solutions to complex problems</h3>
   <h4>:evergreen_tree: Portland, Oregon</h4>
+
+ ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=perennialAutodidact&theme=dark&show_icons=true&hide_title=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perennialAutodidact&layout=compact&theme=dark)](https://github.com/perennialAutodidact/github-readme-stats)
   
   <h3>:computer: Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,9 +68,7 @@
   
   <br/>
   <br/>
-  
-  ![keegangood's github stats](https://github-readme-stats.vercel.app/api?username=perennialAutodidact&theme=dark&show_icons=true&hide_title=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perennialAutodidact&layout=compact&theme=dark)](https://github.com/perennialAutodidact/github-readme-stats)
+
 </div>
 
 <!--
